@@ -1,7 +1,7 @@
 <h1> Olá!!! Eu sou o Moisés Souza😎 </h1>
 <div>
   <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisessouzapy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisessouzapy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
 </div>
  
  
