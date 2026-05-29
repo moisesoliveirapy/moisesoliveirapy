@@ -80,8 +80,6 @@ class MoisesOliveira:
 
 ## 🚀 Projetos em Destaque
 
-> 💡 *Adicione links para os seus projetos mais relevantes aqui!*
-
 | Projeto | Descrição | Tecnologias |
 |:---|:---|:---|
 | [📦 oficina-projeto-senai](https://github.com/moisessouzapy/NOME-DO-REPO) | [O sistema é uma aplicação para auxiliar no gerenciamento de oficinas. A aplicação foi produzida para uma atividade no SENAI e nela foi utilizado banco de dados relacional e Java.] | ![Java]([https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black](https://github.com/moisessouzapy/oficina-projeto-senai)) |
