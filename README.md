@@ -35,69 +35,6 @@ class MoisesOliveira:
 
 ---
 
-## 🏢 Experiência Profissional
-
-<table>
-  <tr>
-    <td align="center" width="80">📅</td>
-    <td><strong>[Ano Início] – [Ano Fim / Atual]</strong></td>
-    <td><strong>[Cargo/Função]</strong> — <em>[Nome da Empresa]</em></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td colspan="2">
-      🔹 [Descreva sua principal responsabilidade nessa posição]<br/>
-      🔹 [Descreva uma conquista ou projeto relevante]<br/>
-      🔹 [Tecnologias utilizadas: Ex: Python, Django, MySQL]
-    </td>
-  </tr>
-  <tr><td colspan="3"><hr/></td></tr>
-
-  <tr>
-    <td align="center">📅</td>
-    <td><strong>[Ano Início] – [Ano Fim]</strong></td>
-    <td><strong>[Cargo/Função]</strong> — <em>[Nome da Empresa]</em></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td colspan="2">
-      🔹 [Descreva sua principal responsabilidade]<br/>
-      🔹 [Impacto gerado ou problema resolvido]<br/>
-      🔹 [Tecnologias utilizadas]
-    </td>
-  </tr>
-  <tr><td colspan="3"><hr/></td></tr>
-
-  <tr>
-    <td align="center">📅</td>
-    <td><strong>[Ano Início] – [Ano Fim]</strong></td>
-    <td><strong>[Estágio / Trainee / Freelancer]</strong> — <em>[Nome da Empresa/Cliente]</em></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td colspan="2">
-      🔹 [Descreva o projeto ou atividade]<br/>
-      🔹 [O que você aprendeu nessa experiência]
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎓 Formação Acadêmica
-
-| 🏛️ Instituição | 📖 Curso | 🗓️ Período | 🎓 Status |
-|:---|:---|:---:|:---:|
-| [Nome da Universidade/Faculdade] | [Nome do Curso] | [Ano] – [Ano/Atual] | [Em andamento / Concluído] |
-| [Nome da Instituição] | [Curso Técnico / Pós / MBA] | [Ano] – [Ano] | [Concluído] |
-
-> 📜 **Certificações & Cursos Extras:**
-> - ✅ [Nome do Curso] — [Plataforma: Alura / Udemy / Coursera] *(Ano)*
-> - ✅ [Nome do Curso] — [Plataforma] *(Ano)*
-> - ✅ [Nome do Certificado] — [Instituição] *(Ano)*
-
----
-
 ## 🛠️ Stack Tecnológica
 
 ### Linguagens
@@ -129,24 +66,16 @@ class MoisesOliveira:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisessouzapy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessouzapy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisessouzapy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessouzapy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moisessouzapy&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=moisessouzapy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moisessouzapy&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Gráfico de Atividade"/>
-</div>
-
----
-
-## 🏆 Troféus do GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moisessouzapy&theme=tokyonight&no-frame=true&row=1&column=7" alt="Troféus"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moisessouzapy&theme=tokyo-night&hide_border=true" alt="Gráfico de Atividade"/>
 </div>
 
 ---
