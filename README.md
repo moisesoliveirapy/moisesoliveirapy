@@ -4,12 +4,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Moisés%20Oliveira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desenvolvedor%20Full%20Stack%20%7C%20Apaixonado%20por%20Tecnologia&descAlignY=55&descSize=18"/>
 
   <!-- Visitor counter -->
-  <img src="https://profile-counter.deno.dev/moisessouzapy/count.svg" alt="Visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=moisessouzapy&color=6E57F7&style=for-the-badge&label=VISITAS" alt="Visitantes" />
 
   <!-- Typing animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&lines=Olá%2C+eu+sou+o+Moisés!+👋;Desenvolvedor+Full+Stack+🚀;Amante+de+Python+%26+JavaScript+💻;Sempre+aprendendo+algo+novo+📚" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&lines=Ola%2C+eu+sou+o+Moises!;Desenvolvedor+Full+Stack;Amante+de+Python+%26+JavaScript;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 </div>
 
@@ -66,12 +64,10 @@ class MoisesOliveira:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moisessouzapy&theme=tokyonight" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moisessouzapy&theme=tokyonight" alt="Repos por Linguagem"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=moisessouzapy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moisessouzapy&theme=tokyonight" alt="Linguagens por Commit"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moisessouzapy&theme=tokyonight&utcOffset=-3" alt="Horário Produtivo"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessouzapy&layout=donut&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 </div>
 
 <div align="center">
