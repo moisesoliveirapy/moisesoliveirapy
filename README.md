@@ -19,7 +19,7 @@
 class MoisesOliveira:
     def __init__(self):
         self.nome       = "Moisés Oliveira"
-        self.localidade = "Brasil 🇧🇷"          # ← Atualize com sua cidade/estado
+        self.localidade = "Brasil BA"         
         self.cargo      = "Desenvolvedor Full Stack"
         self.linguagens = ["Python", "JavaScript", "PHP", "Java", "Dart"]
         self.interesses = ["Desenvolvimento Web", "Back-end", "Mobile", "Open Source"]
@@ -28,8 +28,6 @@ class MoisesOliveira:
     def contato(self):
         return "moisessouza0204@gmail.com"
 ```
-
-> 💡 **[Adicione aqui uma breve apresentação pessoal — quem você é, o que te motiva e quais são seus objetivos profissionais]**
 
 ---
 
@@ -86,9 +84,8 @@ class MoisesOliveira:
 
 | Projeto | Descrição | Tecnologias |
 |:---|:---|:---|
-| [📦 Nome do Projeto](https://github.com/moisessouzapy/NOME-DO-REPO) | [Breve descrição do que o projeto faz] | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [📦 Nome do Projeto](https://github.com/moisessouzapy/NOME-DO-REPO) | [Breve descrição do que o projeto faz] | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| [📦 Nome do Projeto](https://github.com/moisessouzapy/NOME-DO-REPO) | [Breve descrição do que o projeto faz] | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| [📦 oficina-projeto-senai](https://github.com/moisessouzapy/NOME-DO-REPO) | [O sistema é uma aplicação para auxiliar no gerenciamento de oficinas. A aplicação foi produzida para uma atividade no SENAI e nela foi utilizado banco de dados relacional e Java.] | ![Java]([https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black](https://github.com/moisessouzapy/oficina-projeto-senai)) |
+| [📦 Sistema_de_Controle_Web](https://github.com/moisessouzapy/NOME-DO-REPO) | [Sistema criado em html,css,php,js e mongodb com o intuito de gerenciar um controle de vendas] | ![PHP]([https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white](https://github.com/moisessouzapy/Sistema_de_Controle_Web)) |
 
 ---
 
