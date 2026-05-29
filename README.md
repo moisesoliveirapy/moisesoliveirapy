@@ -61,12 +61,6 @@ class MoisesOliveira:
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moisessouzapy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisessouzapy&layout=donut&theme=tokyonight&hide_border=true" alt="Top Langs"/>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=moisessouzapy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -82,8 +76,8 @@ class MoisesOliveira:
 
 | Projeto | Descrição | Tecnologias |
 |:---|:---|:---|
-| [📦 oficina-projeto-senai](https://github.com/moisessouzapy/NOME-DO-REPO) | [O sistema é uma aplicação para auxiliar no gerenciamento de oficinas. A aplicação foi produzida para uma atividade no SENAI e nela foi utilizado banco de dados relacional e Java.] | ![Java]([https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black](https://github.com/moisessouzapy/oficina-projeto-senai)) |
-| [📦 Sistema_de_Controle_Web](https://github.com/moisessouzapy/NOME-DO-REPO) | [Sistema criado em html,css,php,js e mongodb com o intuito de gerenciar um controle de vendas] | ![PHP]([https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white](https://github.com/moisessouzapy/Sistema_de_Controle_Web)) |
+| [📦 oficina-projeto-senai](https://github.com/moisessouzapy/oficina-projeto-senai) | Sistema para auxiliar no gerenciamento de oficinas, produzido para atividade no SENAI com banco de dados relacional | `Java` · `MySQL` |
+| [📦 Sistema_de_Controle_Web](https://github.com/moisessouzapy/Sistema_de_Controle_Web) | Sistema de controle de vendas desenvolvido com HTML, CSS, PHP, JavaScript e MongoDB | `PHP` · `JavaScript` · `MongoDB` |
 
 ---
 
